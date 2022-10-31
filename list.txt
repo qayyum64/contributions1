@@ -2,3 +2,7 @@
  "github":https://github.com/boysmart98;
  "name":"mohd saif"
  },
+{
+ "github":https://github.com/satyamgupta0;
+ "name":"Satyam Gupta"
+ },
